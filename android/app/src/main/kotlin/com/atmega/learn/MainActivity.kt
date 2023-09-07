@@ -1,4 +1,4 @@
-package com.example.atmega
+package com.atmega.learn
 
 import io.flutter.embedding.android.FlutterActivity
 
